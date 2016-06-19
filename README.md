@@ -9,4 +9,4 @@ See [LICENSE.md](LICENSE.md) for details.
 
 This project is a partial clone of the java.awt package from OpenJDK
 for using those classes in non-awt environments
-like on Android or on GWT.
+like on Android or on GWT. It is based on OpenJDK version 6.
